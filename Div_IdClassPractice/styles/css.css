@@ -1,0 +1,42 @@
+.main-box{
+
+height: 100px; width: 100%; margin: 10px; border-radius: 10px; background-color: maroon;
+
+
+
+}
+
+
+#red-box{
+
+background-color: red;
+
+
+}
+
+
+#orangered-box{
+
+
+background-color: orangered;
+
+}
+
+#orange-box{
+
+background-color: rgb(255, 153, 0);
+
+
+}
+
+#orangeyellow-box{
+
+background-color: rgb(230, 192, 23);
+
+}
+
+#yellow-box{
+
+
+background-color: yellow;
+}
